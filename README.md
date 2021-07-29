@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**felipemakita/felipemakita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Felipe Makita, I'm 21 years old and a developing enviromental engineer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on flood mapping based on LiDAR data and high-resolution satellite imagery;
+- 🌱 I’m currently learning python applied to data analysis and geoprocessing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/felipemakita">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemakita&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemakita&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+  ##
+  
+<div>
+  <a href = "mailto:felipe.makita@unesp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipemakita" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
